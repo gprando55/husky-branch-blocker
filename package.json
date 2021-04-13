@@ -1,0 +1,11 @@
+{
+  "name": "husky-branch-blocker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gprando/husky-branch-blocker.git",
+  "author": "Gabriel <gprando55@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^6.0.0"
+  }
+}
